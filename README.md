@@ -1,5 +1,5 @@
-# algorithm_visualiser
-A C++ project that uses OpenGL & CMake to show how algorithms work under the hood 
+# algo
+A C++ project that uses OpenGL & CMake to show how algorithms work under the hood (Not yet completed)
 
 ## How to Run:
 1. Click on the button " <> Code " and copy the url.
